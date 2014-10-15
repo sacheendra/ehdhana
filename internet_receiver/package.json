@@ -1,0 +1,8 @@
+{
+  "name": "internet_receiver",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "socket.io-client": "~1.1.0"
+  }
+}
